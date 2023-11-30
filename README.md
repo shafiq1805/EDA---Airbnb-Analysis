@@ -5,10 +5,13 @@ Project Overview:
 This GitHub repository contains the code and findings from an Exploratory Data Analysis (EDA) project on Airbnb data. The analysis explores various aspects of the Airbnb dataset, offering insights into pricing patterns, neighborhood dynamics, host performance metrics, and user trends.
 
 Project Structure:
+
 Code:
 
 The notebooks directory includes Jupyter notebooks containing the Python code for data cleaning, analysis, and visualizations.
+
 The scripts directory may contain any additional scripts used in the project.
+
 Data:
 
 The data directory stores the Airbnb dataset used for the analysis. Due to size constraints, the dataset may be available for download from [source link].
@@ -17,6 +20,7 @@ Findings:
 The findings directory contains a summary of key insights and conclusions drawn from the EDA.
 
 Key Insights:
+
 Neighborhood Dynamics:
 
 Manhattan and Brooklyn emerge as high-demand areas, with distinct pricing patterns. The data suggests potential investment opportunities in these boroughs.
